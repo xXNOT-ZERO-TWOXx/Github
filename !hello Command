@@ -1,0 +1,3 @@
+$nomention
+Hello $username. 🖐
+$cooldown[5m;You have to wait 5 minutes before executing this command again]
